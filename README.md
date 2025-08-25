@@ -9,6 +9,13 @@ This repository contains various MATLAB Simulink simulations for power electroni
 
 ---
 
+## 🔧 Models Included
+
+| Model | Preview |
+|-------|--------|
+{{MODEL_TABLE}}
+
+---
 
 ## ⚙️ Requirements
 
